@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>joker-tool</module>
+        <module>microservice-common</module>
     </modules>
     <packaging>pom</packaging>
     <description>微服务快速开发框架</description>
